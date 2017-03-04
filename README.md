@@ -1,4 +1,3 @@
-# A03Potlapalli
 # Bmi and guestbook app
 #Author
 Potlapalli Tarunkumar
